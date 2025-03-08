@@ -1,0 +1,11 @@
+[project]
+name = "VisualTweaks"
+version = "1"
+authors = [{ name = "Deceptix_" }]
+description = "Adds various visual tweaks."
+
+[tool.sdkmod]
+name = "Visual Tweaks"
+license = {name = "GPL3", url = "https://choosealicense.com/licenses/gpl-3.0/" }
+download = "https://github.com/Decept1x/BL3-Visual-Tweaks/releases/download/1.0/visual_tweaks.sdkmod"
+version = "1"
